@@ -70,17 +70,17 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916377138382"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+94768353051"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/FHax1qU0Y4dGxmIsaieQYA"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/Dgb1Tsn8pOG3lYQtPgIsVm"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>  
 
-My Instagram👇
+My Youtube Channel👇
 <p align="center">
- <a href="https://instagram.com/bharatkhajnani701?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://youtube.com/channel/UC82yWwIhUtxKRuSDWVGK9mw"><img src=""></a>
 </p>
 
 # Thanks To
