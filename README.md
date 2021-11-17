@@ -80,7 +80,7 @@ My Whatsapp Group👇
 
 My Youtube Channel👇
 <p align="center">
- <a href="https://youtube.com/channel/UC82yWwIhUtxKRuSDWVGK9mw"><img src="https://www.gsmarena.com/youtube_dislike_count_hide_public_view-news-51791.php"></a>
+ <a href="https://youtube.com/channel/UC82yWwIhUtxKRuSDWVGK9mw"></a>
 </p>
 
 # Thanks To
