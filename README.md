@@ -43,7 +43,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/bharatk098/DogeBot.git
+🦄 git clone https://github.com/LakiyaYT/DogeBot
 🦄 cd DogeBot
 🦄 npm start
 ```
