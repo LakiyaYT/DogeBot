@@ -12,7 +12,7 @@
   <a href="https://github.com/bharatk098"><img title="Author" src="https://img.shields.io/badge/Author-LAKIYA YT-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="LAKIYA YT" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 ## Deploy
