@@ -80,7 +80,7 @@ My Whatsapp Group👇
 
 My Youtube Channel👇
 <p align="center">
- <a href="https://youtube.com/channel/UC82yWwIhUtxKRuSDWVGK9mw"><img alt="Youtube Channel" src=https://img.shields.io/youtube/channel/subscribers/UC82yWwIhUtxKRuSDWVGK9mw?style=social"/></a>
+ <a href="https://youtube.com/channel/UC82yWwIhUtxKRuSDWVGK9mw"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC82yWwIhUtxKRuSDWVGK9mw?style=social"></a>
 </p>
 
 # Thanks To
